@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Maze 4table/src"/>
+	<classpathentry kind="output" path="Maze 4table/bin"/>
+</classpath>
